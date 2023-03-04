@@ -1,8 +1,8 @@
 # TESTIMONIAL-PAGE MADE WITH CSS GRID
-*CSS Grid is a layout system in CSS that allows web developers to create two-dimensional grid layouts for their web pages. With CSS Grid, web developers can define rows and columns, and then place elements into specific grid cells.
-
+*CSS Grid is a layout system in CSS that allows web developers to create two-dimensional grid layouts for their web pages. With CSS Grid, web developers can define rows and columns, and then place elements into specific grid cells.*
+```
 ### Here are some key features of CSS Grid:
-
+```
 * Two-dimensional layout: CSS Grid allows for both row-based and column-based layout.
 
 * Grid lines and tracks: Grid lines define the rows and columns of the grid, while tracks are the spaces between the grid lines.
