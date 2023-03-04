@@ -16,6 +16,6 @@
 * Grid properties: CSS Grid offers a number of properties for controlling the placement, size, and spacing of grid items.
 
 * Overall, CSS Grid is a powerful tool for creating complex, responsive layouts in web development.
-```
+
 TO get an in-depth understanding of CSS Grid, visit the website [W3SCHOOLS](https://www.w3schools.com/css/css_grid.asp)
-```
+
